@@ -16,14 +16,14 @@ Um projeto simples de lista de tarefas (CRUD - Create, Read, Update, Delete) des
 O projeto segue uma estrutura de arquivos simples para facilidade de desenvolvimento:
 
 ```
-todo-simples/
+todo/
 ├── index.php             \# Tela principal: Listagem de tarefas e formulário de adição.
 ├── processar.php         \# Roteador de ações: Lógica de Back-end (Criação, Edição, Deleção).
 ├── config/
-│   └── xml\_data.xml      \# O arquivo XML de dados.
+│   └── xml\_data.xml     \# O arquivo XML de dados.
 └── includes/
-├── functions.php     \# Funções PHP para manipular o XML (CRUD).
-└── head.php          \# Configuração do HTML e inclusão do DaisyUI/Tailwind CSS.
+├── functions.php         \# Funções PHP para manipular o XML (CRUD).
+└── head.php              \# Configuração do HTML e inclusão do DaisyUI/Tailwind CSS.
 ```
 
 ## 🛠️ Como Instalar e Rodar
@@ -44,7 +44,7 @@ Para rodar este projeto, você precisa de um ambiente que suporte PHP (como XAMP
     ```
 
 2.  **Configure o servidor:**
-    Mova a pasta `todo-simples` para o diretório de documentos do seu servidor web (ex: `htdocs` no XAMPP).
+    Mova a pasta `todo` para o diretório de documentos do seu servidor web (ex: `htdocs` no XAMPP).
 
 3.  **Garantir a permissão de escrita:**
     O PHP precisa de permissão de escrita no arquivo `config/xml_data.xml` para salvar as alterações (criação, edição e exclusão de tarefas).
