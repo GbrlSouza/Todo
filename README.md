@@ -50,7 +50,7 @@ Para rodar este projeto, você precisa de um ambiente que suporte PHP (como XAMP
     O PHP precisa de permissão de escrita no arquivo `config/xml_data.xml` para salvar as alterações (criação, edição e exclusão de tarefas).
 
 4.  **Acesse no navegador:**
-    Inicie seu servidor e acesse o projeto (normalmente em `http://localhost/todo-simples`).
+    Inicie seu servidor e acesse o projeto (normalmente em `http://localhost/todo`).
 
 ## ⚙️ Funcionalidades CRUD
 
