@@ -39,8 +39,8 @@ Para rodar este projeto, você precisa de um ambiente que suporte PHP (como XAMP
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [LINK-DO-SEU-REPOSITORIO] todo-simples
-    cd todo-simples
+    git clone https://github.com/GbrlSouza/Todo
+    cd Todo
     ```
 
 2.  **Configure o servidor:**
