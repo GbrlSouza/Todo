@@ -1,4 +1,4 @@
-# 📝 To-Do Simples (CRUD)
+# 📝 To-Do (CRUD)
 
 Um projeto simples de lista de tarefas (CRUD - Create, Read, Update, Delete) desenvolvido com uma combinação de tecnologias leves e modernas para Front-end e um Back-end em PHP com persistência de dados em arquivo XML.
 
